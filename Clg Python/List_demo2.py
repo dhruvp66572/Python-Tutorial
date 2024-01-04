@@ -9,4 +9,3 @@ print('\nList five times = ',List1*5)
 lst = ['listItem1','listItem2','listItem3','listItem4','listItem5','listItem6']
 lst2 = lst[:]
 print('\nSecound List = ',lst2)
-
